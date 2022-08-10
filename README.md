@@ -68,12 +68,12 @@ The python code in the [notebook](https://github.com/Samantha-Britschgi/Song-Pop
 
 ### ***Song Populatiry Prediction Model***
 
-   <img src="https://github.com/Samantha-Britschgi/Song-Popularity-Prediction-User-Recommendation-System/blob/8126e5ecd4a5ff54fe3c2fccf4194b7b55f47a75/Images/SongRegressionModelSteps.png" width="550" height="300" />
+   <img src="https://github.com/Samantha-Britschgi/Song-Popularity-Prediction-User-Recommendation-System/blob/68123e0cb4e2f6413de6d6df33c4c44b3e2cd5a8/Images/SongRegressionModelSteps.png" width="550" height="300" />
 
 
 ### ***User Recommendation Engine Model***
 
-   <img src="https://github.com/Samantha-Britschgi/Song-Popularity-Prediction-User-Recommendation-System/blob/8126e5ecd4a5ff54fe3c2fccf4194b7b55f47a75/Images/UserRecommendationEngine.png" width="550" height="300" />
+   <img src="https://github.com/Samantha-Britschgi/Song-Popularity-Prediction-User-Recommendation-System/blob/68123e0cb4e2f6413de6d6df33c4c44b3e2cd5a8/Images/UserRecommendationEngine.png" width="550" height="300" />
 
 ## Findings
 

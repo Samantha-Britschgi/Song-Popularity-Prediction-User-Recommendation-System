@@ -1,6 +1,6 @@
 # Song Popularity Prediction & User Recommendation Engine
 
-# Background
+# :seedling: Background
 
 
 A group project to predict Song Popularity and build a song recommendation engine while also providing a dashboard to present the findings. It is coursework for "Decision Making with Business Intelligence and Analytics" as part of the MS Data Analytics program at Seattle Pacific University.
@@ -34,12 +34,12 @@ A group project to predict Song Popularity and build a song recommendation engin
   <li>Build a recommendation engine to recommend songs, so that when a user is on the platform suggested songs can keep them actively listening. </li>
 </ul>
 
-## Instructions
+## :seedling: Instructions
 
 
 The python code in the [notebook](https://github.com/Samantha-Britschgi/Song-Popularity-Prediction-User-Recommendation-System/blob/734674d33b066ee7be29803dd46dcb1d44eebf4a/PROJECTCODE.ipynb) and was written inside of Google Colab, but any editor or IDE that utilizes python will work.  
 
-## Process
+## :clipboard: Process
 
 
  ><ol>
@@ -62,7 +62,7 @@ The python code in the [notebook](https://github.com/Samantha-Britschgi/Song-Pop
 >    <li>Recommendations & Next Steps</li>
 ></ol>
 
-## Models
+## :chart_with_upwards_trend: Models
 
 
 
@@ -75,7 +75,7 @@ The python code in the [notebook](https://github.com/Samantha-Britschgi/Song-Pop
 
    <img src="https://github.com/Samantha-Britschgi/Song-Popularity-Prediction-User-Recommendation-System/blob/68123e0cb4e2f6413de6d6df33c4c44b3e2cd5a8/Images/UserRecommendationEngine.png" width="550" height="300" />
 
-## Findings
+## :star2: Findings
 
 
 ### ***Song Popularity Prediction Model***
@@ -92,7 +92,7 @@ The python code in the [notebook](https://github.com/Samantha-Britschgi/Song-Pop
 <li> Genre & year were more prominent variables than location of the artist when recommending songs.</li> 
 </ul>
 
-## Shortcomings
+## :sparkles: Shortcomings
 
 
 <ul>
